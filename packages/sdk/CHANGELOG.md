@@ -1,5 +1,13 @@
 # @fuel-wallet/sdk
 
+## 0.1.1
+
+### Patch Changes
+
+- [#309](https://github.com/FuelLabs/fuels-wallet/pull/309) [`d981aae`](https://github.com/FuelLabs/fuels-wallet/commit/d981aae794e8a4ae18bac2fe66a3ba44293f10af) Thanks [@LuizAsFight](https://github.com/LuizAsFight)! - chore: allow option providerUrl in getBlockExplorer function
+
+- [#338](https://github.com/FuelLabs/fuels-wallet/pull/338) [`34700d6`](https://github.com/FuelLabs/fuels-wallet/commit/34700d666fcb95f6bcb4ccc499401cc9d0a27b44) Thanks [@luizstacio](https://github.com/luizstacio)! - Update fuels version
+
 ## 0.1.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # @fuel-wallet/types
 
+## 0.1.1
+
+### Patch Changes
+
+- [#338](https://github.com/FuelLabs/fuels-wallet/pull/338) [`34700d6`](https://github.com/FuelLabs/fuels-wallet/commit/34700d666fcb95f6bcb4ccc499401cc9d0a27b44) Thanks [@luizstacio](https://github.com/luizstacio)! - Update fuels version
+
 ## 0.1.0
 
 ### Minor Changes
